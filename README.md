@@ -1,27 +1,18 @@
 # Brief about the project : 
-Prediction of bengaluru house prices using regression models
+Deployment of ML model on render ([Predict IRIS](https://render-demo-2-l68g.onrender.com/))
 
 # Learning focus: 
-to apply multiple regression models in a loop without using hyperparameter tuning on a clean data. The accuracy was not in focus.
+To push code to Github and then deploy model to a web service by using a simple dataset and  a simple algorithm. 
 
 # Steps followed:
 1. Data collection (Kaggle)
 2. Data cleaning
 3. EDA
 4. Model Building
-
-# Models  on focus:
-1. Linear Regression 
-2. SVRegression
-3. Decision tree regression 
-4.Random forest regression
-5. Bayesian Regression
-6. Lasso Regression
-7. Elastic net regression
-8. XG boost regression 
-9. Gradient boosting regression
-10.Bagging regression
-11.Adaboost regression
+5. Using streamlit for the front end
+6. push code to Github
+7. Deployment on render
 
 # Areas of improvement : 
-sqft area is an important feature and should be cleaned. 
+1. Making pipelines
+2. package version conflict in jupiter notebook & VS code  
